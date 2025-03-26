@@ -5,7 +5,7 @@
 What ⚕️MedDocChat can do:<br>
 ✅ Answer questions about medical documents (in .txt files) in an intuitive chatbot interface<br>
 ✅ Provides source attribution 💡 from medical document, ensuring trust in chatbot<br>
-✅ Stores medical documents in NoSQL distributed database (MongoDB is the only connection currently offered)<br>
+✅ Stores medical documents in NoSQL distributed database (using MongoDB at the moment)<br>
 ✅ Maintains conversational history when chatting with document, allowing for context to be maintained
 
 🛠️ Project's Tech Stack:
