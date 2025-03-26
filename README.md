@@ -1,11 +1,11 @@
-# SoapChat
+# ⚕️ MedDocChat
 
-🧼Chat is a chatbot that allows you to converse with SOAP notes.
+⚕️Chat is a chatbot that allows you to converse with SOAP notes.
 
-What 🧼Chat can do:<br>
-✅ Answer questions about SOAP notes (in .txt files) in an intuitive chatbot interface<br>
+What MedDocChat can do:<br>
+✅ Answer questions about medical documents (in .txt files) in an intuitive chatbot interface<br>
 ✅ Provides source attribution 💡 from medical document, ensuring trust in chatbot<br>
-✅ Stores SOAP notes in NoSQL distributed database (MongoDB is the only connection currently offered)<br>
+✅ Stores medical documents in NoSQL distributed database (MongoDB is the only connection currently offered)<br>
 ✅ Maintains conversational history when chatting with document, allowing for context to be maintained
 
 🛠️ Project's Tech Stack:
@@ -76,7 +76,7 @@ uvicorn api.main:app --host 0.0.0.0 --port 8000 --reload
 1. Once everything is setup, you should be greeted by this landing page:
    ![Landing Page](./public/landing_page.png)
 
-You can generate examples of SOAP documents on ChatGPT, or download some examples under `docs/soap_sample.txt` and upload it (must be `.txt` format) by pressing the "Upload .txt File" button.
+You can generate examples of medical documents on ChatGPT, or download some examples under `docs` and upload it (must be `.txt` format) by pressing the "Upload .txt File" button.
 
 > **Note:** Currently, the "I'm Feeling Lucky" button is not supported. The idea was to pick a random example stored in the database of choice, but I did not have enough time to implement this.
 
