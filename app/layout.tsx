@@ -25,7 +25,7 @@ export default function RootLayout({
           <nav className="absolute top-2 right-4 m-2 z-1">
           <Button asChild variant="outline" size="default">
                     <a
-                      href="https://github.com/bayesandmarkov/deepscribe-coding-challenge"
+                      href="https://github.com/will-pang/medical-document-chat"
                       target="_blank"
                     >
                       <GithubIcon className="size-3" />
