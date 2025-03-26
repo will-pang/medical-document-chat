@@ -1,0 +1,70 @@
+SOAP Note
+Patient Name: Conan O’Brien DOB: 04/18/1963 Date of Visit: 03/09/2025 Provider: Dr. Jane Smith, MD Chief Complaint: Dry, itchy skin for the past several months
+
+S - Subjective
+	•	History of Present Illness (HPI):
+	◦	61-year-old male presents with complaints of persistent dry, flaky skin, especially on the face, arms, and legs.
+	◦	Reports intermittent itching, worse after showering.
+	◦	Symptoms began several months ago and have gradually worsened.
+	◦	Uses over-the-counter lotion (no significant relief).
+	◦	No redness, swelling, or open sores.
+	◦	No recent changes in soap, detergent, or diet.
+	◦	Denies fever, chills, or signs of infection.
+	•	Past Medical History (PMH):
+	◦	Mild seasonal allergies
+	◦	No history of eczema or psoriasis
+	◦	No known dermatologic conditions
+	•	Medications:
+	◦	Multivitamin daily
+	◦	OTC moisturizer (Cetaphil lotion)
+	•	Family History:
+	◦	No family history of eczema, psoriasis, or other skin conditions.
+	•	Social History:
+	◦	Non-smoker, occasional alcohol use
+	◦	Works in television/media, often exposed to studio lighting
+	◦	Showers twice daily, uses hot water
+
+O - Objective
+Vital Signs:
+	•	Temperature: 98.2°F (36.8°C)
+	•	Blood Pressure: 122/78 mmHg
+	•	Heart Rate: 72 bpm
+	•	Respiratory Rate: 16 breaths/min
+Physical Examination:
+	•	General: Well-nourished, no acute distress.
+	•	Skin:
+	◦	Mild xerosis (dry skin) noted on face, arms, and lower legs.
+	◦	No erythema, scaling, or lesions.
+	◦	No evidence of secondary infection.
+	◦	Negative for signs of eczema (no lichenification, excoriations, or thickened plaques).
+	•	HEENT: No nasal congestion, throat normal, no signs of allergic reaction.
+	•	Extremities: No edema, normal capillary refill.
+
+A - Assessment
+Primary Diagnosis:
+	•	Xerosis cutis (dry skin), likely exacerbated by frequent hot showers, climate, and possible environmental factors.
+Differential Diagnoses:
+	1	Mild irritant dermatitis (from soap, climate exposure)
+	2	Early seborrheic dermatitis (less likely due to lack of redness or scaling)
+	3	Subclinical eczema (mild, no significant inflammation yet)
+
+P - Plan
+	1	Skin Care Recommendations:
+	◦	Switch to lukewarm showers (limit to 5–10 minutes).
+	◦	Use fragrance-free, gentle moisturizers (e.g., CeraVe, Eucerin) immediately after bathing.
+	◦	Apply thicker emollients (petroleum jelly, Aquaphor) at night to affected areas.
+	◦	Use a humidifier at home, especially in dry indoor environments.
+	◦	Avoid harsh soaps; switch to a gentle cleanser like Cetaphil or Dove Sensitive Skin.
+	2	Medications/Treatment:
+	◦	Prescribed Hydrocortisone 1% cream PRN for any areas of persistent itching.
+	◦	Advised OTC antihistamine (loratadine 10 mg daily) if itching persists.
+	3	Follow-Up:
+	◦	Re-evaluate in 4–6 weeks if symptoms persist or worsen.
+	◦	If signs of infection or worsening skin irritation appear, return sooner.
+
+Patient Education & Counseling:
+	•	Discussed importance of skin hydration and avoiding over-washing.
+	•	Recommended lifestyle modifications (humidifier, lukewarm showers, gentle skincare).
+	•	Advised on signs of worsening dermatitis that may require dermatology referral.
+	•	Patient jokingly asked if excessive handsomeness contributes to dry skin—reassured that studio lighting may be a factor, but proper skincare will help.
+Patient verbalized understanding and agreement with the plan.
